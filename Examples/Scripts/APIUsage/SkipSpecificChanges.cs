@@ -1,5 +1,4 @@
-﻿using System;
-using TransformChangesDebugger.API;
+﻿using TransformChangesDebugger.API;
 using UnityEngine;
 
 public class SkipSpecificChanges : MonoBehaviour
